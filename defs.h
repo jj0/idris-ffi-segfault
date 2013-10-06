@@ -1,0 +1,2 @@
+
+char* getEnvPairMine(int i);
